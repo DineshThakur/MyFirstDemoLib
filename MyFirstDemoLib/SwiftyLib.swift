@@ -22,4 +22,8 @@ public final class SwiftyLib {
         return a - b
     }
     
+    public func multiply(a: Int, b: Int) -> Int {
+        return a * b
+    }
+    
 }
