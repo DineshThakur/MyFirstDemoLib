@@ -29,4 +29,8 @@ public final class SwiftyLib {
     public func devide(a: Int, b: Int) -> Int {
         return a / b
     }
+    
+    public func sayhello(){
+        print("Hello Friends.")
+    }
 }
