@@ -33,4 +33,7 @@ public final class SwiftyLib {
     public func sayhello(){
         print("Hello Friends.")
     }
+    public func sayHi(){
+        print("Hello Friends.")
+    }
 }
