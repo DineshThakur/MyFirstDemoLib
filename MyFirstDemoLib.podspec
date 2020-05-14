@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "MyFirstDemoLib"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.5"
   spec.summary      = "Local Framework"
   spec.description  = "This is some Local Framework"
   spec.homepage     = "https://github.com/DineshThakur/MyFirstDemoLib"
